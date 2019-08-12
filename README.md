@@ -7,4 +7,4 @@ css and javascript) which can be found in the Website_Prototype folder. I later 
 
 # Gifs of the website design
 ###### Home/Landing Page
-![](https://photos.google.com/photo/AF1QipP4ph32q0_96VpYFzVshGCiU5HpDQSJV27z-yLZ)
+![](https://photos.app.goo.gl/DJMTU6ffxYRywyST9)
