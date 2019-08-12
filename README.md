@@ -7,4 +7,4 @@ css and javascript) which can be found in the Website_Prototype folder. I later 
 
 # Prototype Demo
 ###### Home/Landing Page
-![](https://i.imgur.com/KcmD8Hk.mp4)
+![Landing page demo](Website_Prototype/demo_gifs/landing_demo.gif)
