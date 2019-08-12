@@ -9,7 +9,7 @@ css and javascript) which can be found in the Website_Prototype folder. I later 
 ##### Home/Landing 
 ![Landing page demo](Website_Prototype/demo_gifs/landing_demo.gif)
 
-##### Sign In/Up 
+##### Sign In/Up (pages can be clicked or pulled like below)
 ![Sign in page demo](Website_Prototype/demo_gifs/signup_demo.gif)
 
 ##### Users Home/Dashboard 
