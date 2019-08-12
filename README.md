@@ -1,9 +1,12 @@
 # Cimate
-Climate was a 2 person project completed as part of my Software Engineering module. The idea of the web app was to allow 2 users to video chat,
-text chat and transfer files to one another, all via client to client connection accomplished through the use of WebRTC. I was over the design
-and front-end of the app while Andrew worked on integrating webRTC and setting up both the models and database. Unfortunatly, the idea
-was to large scale for us to complete so its functionality is largly incomplete. However, I designed an initial prototype of the app (using html,
-css and javascript) which can be found in the Website_Prototype folder. I later converted these into the .hbs files for the project.
+###### What is it?
+Climate is a web app that allows users to communicate via client to client (browser to browser) connections giving them the ability to text, video and transfer files to one another. The project was part of my 2nd year Software Engineering module and was completed with another student, Andrew Dawod.
+
+###### What were the team roles?
+I was in charge of the applications design and front-end (.hbs) while Andrew worked on the back end which included integrating webRTC into the app as well as setting up the models and the database used in the project.
+
+###### Is it functional?
+Unfortunatly the applications functionality is largly incomplete due to the project being to large scale, however, you can view the prototype I built (using html, css and javascript) in the Website_Prototype folder or view the demos below.  
 
 # Prototype Demo
 ##### Home/Landing 
