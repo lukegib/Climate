@@ -1,4 +1,6 @@
-# Cimate
+This repository has been archived and moved to the College-Assignments repository which can be found [here](https://github.com/lukegib/College-Assignments "College Assignments")
+
+# Climate
 ###### What is it?
 Climate is a web app that allows users to communicate via client to client (browser to browser) connections giving them the ability to text, video and transfer files to one another. The project was part of my 2nd year Software Engineering module and was completed with another student, Andrew Dawod.
 
